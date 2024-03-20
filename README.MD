@@ -1,5 +1,7 @@
 <h1 align="center">React Spotify App Project</h1>
 
+![App Wireframe](https://github.com/tsokac2/Spotify_Music_App/blob/main/src/01.JPG)
+
 ### Overview of the Section
 
 
